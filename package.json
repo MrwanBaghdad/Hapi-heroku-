@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MrwanBaghdad/Hapi-heroku-/issues"
   },
-  "homepage": "https://github.com/MrwanBaghdad/Hapi-heroku-#readme"
+  "homepage": "https://github.com/MrwanBaghdad/Hapi-heroku-#readme",
+  "dependencies": {
+    "hapi": "^13.4.1"
+  }
 }
