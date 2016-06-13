@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Deploying a simple hapi server on heorku\r ```\r heroku login\r herkou create\r git heroku push master\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrwanBaghdad/Hapi-heroku-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrwanBaghdad/Hapi-heroku-/issues"
+  },
+  "homepage": "https://github.com/MrwanBaghdad/Hapi-heroku-#readme"
+}
